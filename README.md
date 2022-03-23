@@ -1,5 +1,5 @@
-# tic_tac_toe
-A new Flutter project.
+# Tic Tac Toe Game in Flutter.
+Stateful Widgets implementation with functionality.
 
 ## Figma UI
 You can see Figma UI which I have implemented.
